@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Paulobritto34
 - 👀 I’m interested in  programação  Front-end
-- 🌱 I’m currently learning HTML5 e CSS3
+- 🌱 I’m currently learning sobre diversas tecnologia Web
 - 💞️ I’m looking to collaborate on em projetos
 
 
